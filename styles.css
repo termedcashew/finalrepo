@@ -1,0 +1,23 @@
+.text {
+    color: white;
+}
+#results {
+    color: white;
+}
+.navbar sticky-top navbar-expand-lg navbar-dark {
+    border-color: gray;
+    border-width: 10px;
+}
+p {
+    color: white;
+}
+@media only screen and (min-width: 961px) {
+    .body1 {
+        margin: 100px;
+        padding-right: 500px;
+    }
+    body  {
+        background-image: url(images/wp2894198-black-moon-wallpaper-hd.jpg);
+        background-size: 100%;
+    }
+}
